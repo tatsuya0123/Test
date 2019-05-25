@@ -7,3 +7,9 @@ public void testaction()
 {
 	printf("action");
 }
+
+
+public void Kanai()
+{
+	printf("コンフリクト");
+}
