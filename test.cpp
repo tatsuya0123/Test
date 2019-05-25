@@ -7,3 +7,8 @@ public void testaction()
 {
 	printf("action");
 }
+
+public void tatsuya()
+{
+	printf("tatsuya")
+}
