@@ -16,3 +16,7 @@ public void tatsuya()
 {
 	printf("tatsuya")
 }
+
+public void blanch() {
+	printf("ƒuƒ‰ƒ“ƒ`");
+}
